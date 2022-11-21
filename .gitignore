@@ -1,0 +1,11 @@
+/terraform/.terraform/
+
+# /.devcontainer/
+
+/scripts/aws-creds.sh
+
+/terraform/.terraform.lock.hcl
+
+/*.tfstate
+
+/KeyPair*
